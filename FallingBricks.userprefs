@@ -1,8 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Mayhem-Monkey\MMUnityProj\Assets\MonkeyMoveAndroid.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\MoveBlock.cs">
     <Files>
-      <File FileName="..\..\Mayhem-Monkey\MMUnityProj\Assets\MonkeyMoveAndroid.cs" Line="46" Column="2" />
+      <File FileName="Assets\Resources\Scripts\DropBlock.cs" Line="6" Column="9" />
+      <File FileName="Assets\Resources\Scripts\MoveBlock.cs" Line="68" Column="70" />
+      <File FileName="Assets\Resources\Scripts\ScoreUpdate.cs" Line="12" Column="14" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
