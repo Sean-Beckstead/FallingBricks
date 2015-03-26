@@ -9,3 +9,5 @@ EditorBuildSettings:
     path: Assets/Menu.unity
   - enabled: 1
     path: Assets/MainLevel.unity
+  - enabled: 1
+    path: Assets/LeaderBoard.unity
